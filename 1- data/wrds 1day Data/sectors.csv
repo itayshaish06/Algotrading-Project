@@ -1,0 +1,504 @@
+,Symbol,GICS Sector,GICS Sub-Industry
+0,MMM,Industrials,Industrial Conglomerates
+1,AOS,Industrials,Building Products
+2,ABT,Health Care,Health Care Equipment
+3,ABBV,Health Care,Biotechnology
+4,ACN,Information Technology,IT Consulting & Other Services
+5,ADBE,Information Technology,Application Software
+6,AMD,Information Technology,Semiconductors
+7,AES,Utilities,Independent Power Producers & Energy Traders
+8,AFL,Financials,Life & Health Insurance
+9,A,Health Care,Life Sciences Tools & Services
+10,APD,Materials,Industrial Gases
+11,ABNB,Consumer Discretionary,"Hotels, Resorts & Cruise Lines"
+12,AKAM,Information Technology,Internet Services & Infrastructure
+13,ALB,Materials,Specialty Chemicals
+14,ARE,Real Estate,Office REITs
+15,ALGN,Health Care,Health Care Supplies
+16,ALLE,Industrials,Building Products
+17,LNT,Utilities,Electric Utilities
+18,ALL,Financials,Property & Casualty Insurance
+19,GOOGL,Communication Services,Interactive Media & Services
+20,GOOG,Communication Services,Interactive Media & Services
+21,MO,Consumer Staples,Tobacco
+22,AMZN,Consumer Discretionary,Broadline Retail
+23,AMCR,Materials,Paper & Plastic Packaging Products & Materials
+24,AEE,Utilities,Multi-Utilities
+25,AAL,Industrials,Passenger Airlines
+26,AEP,Utilities,Electric Utilities
+27,AXP,Financials,Consumer Finance
+28,AIG,Financials,Multi-line Insurance
+29,AMT,Real Estate,Telecom Tower REITs
+30,AWK,Utilities,Water Utilities
+31,AMP,Financials,Asset Management & Custody Banks
+32,AME,Industrials,Electrical Components & Equipment
+33,AMGN,Health Care,Biotechnology
+34,APH,Information Technology,Electronic Components
+35,ADI,Information Technology,Semiconductors
+36,ANSS,Information Technology,Application Software
+37,AON,Financials,Insurance Brokers
+38,APA,Energy,Oil & Gas Exploration & Production
+39,AAPL,Information Technology,"Technology Hardware, Storage & Peripherals"
+40,AMAT,Information Technology,Semiconductor Materials & Equipment
+41,APTV,Consumer Discretionary,Automotive Parts & Equipment
+42,ACGL,Financials,Property & Casualty Insurance
+43,ADM,Consumer Staples,Agricultural Products & Services
+44,ANET,Information Technology,Communications Equipment
+45,AJG,Financials,Insurance Brokers
+46,AIZ,Financials,Multi-line Insurance
+47,T,Communication Services,Integrated Telecommunication Services
+48,ATO,Utilities,Gas Utilities
+49,ADSK,Information Technology,Application Software
+50,ADP,Industrials,Human Resource & Employment Services
+51,AZO,Consumer Discretionary,Automotive Retail
+52,AVB,Real Estate,Multi-Family Residential REITs
+53,AVY,Materials,Paper & Plastic Packaging Products & Materials
+54,AXON,Industrials,Aerospace & Defense
+55,BKR,Energy,Oil & Gas Equipment & Services
+56,BALL,Materials,"Metal, Glass & Plastic Containers"
+57,BAC,Financials,Diversified Banks
+58,BK,Financials,Asset Management & Custody Banks
+59,BBWI,Consumer Discretionary,Other Specialty Retail
+60,BAX,Health Care,Health Care Equipment
+61,BDX,Health Care,Health Care Equipment
+62,BRK.B,Financials,Multi-Sector Holdings
+63,BBY,Consumer Discretionary,Computer & Electronics Retail
+64,BIO,Health Care,Life Sciences Tools & Services
+65,TECH,Health Care,Life Sciences Tools & Services
+66,BIIB,Health Care,Biotechnology
+67,BLK,Financials,Asset Management & Custody Banks
+68,BX,Financials,Asset Management & Custody Banks
+69,BA,Industrials,Aerospace & Defense
+70,BKNG,Consumer Discretionary,"Hotels, Resorts & Cruise Lines"
+71,BWA,Consumer Discretionary,Automotive Parts & Equipment
+72,BXP,Real Estate,Office REITs
+73,BSX,Health Care,Health Care Equipment
+74,BMY,Health Care,Pharmaceuticals
+75,AVGO,Information Technology,Semiconductors
+76,BR,Industrials,Data Processing & Outsourced Services
+77,BRO,Financials,Insurance Brokers
+78,BF.B,Consumer Staples,Distillers & Vintners
+79,BLDR,Industrials,Building Products
+80,BG,Consumer Staples,Agricultural Products & Services
+81,CDNS,Information Technology,Application Software
+82,CZR,Consumer Discretionary,Casinos & Gaming
+83,CPT,Real Estate,Multi-Family Residential REITs
+84,CPB,Consumer Staples,Packaged Foods & Meats
+85,COF,Financials,Consumer Finance
+86,CAH,Health Care,Health Care Distributors
+87,KMX,Consumer Discretionary,Automotive Retail
+88,CCL,Consumer Discretionary,"Hotels, Resorts & Cruise Lines"
+89,CARR,Industrials,Building Products
+90,CTLT,Health Care,Pharmaceuticals
+91,CAT,Industrials,Construction Machinery & Heavy Transportation Equipment
+92,CBOE,Financials,Financial Exchanges & Data
+93,CBRE,Real Estate,Real Estate Services
+94,CDW,Information Technology,Technology Distributors
+95,CE,Materials,Specialty Chemicals
+96,COR,Health Care,Health Care Distributors
+97,CNC,Health Care,Managed Health Care
+98,CNP,Utilities,Multi-Utilities
+99,CF,Materials,Fertilizers & Agricultural Chemicals
+100,CHRW,Industrials,Air Freight & Logistics
+101,CRL,Health Care,Life Sciences Tools & Services
+102,SCHW,Financials,Investment Banking & Brokerage
+103,CHTR,Communication Services,Cable & Satellite
+104,CVX,Energy,Integrated Oil & Gas
+105,CMG,Consumer Discretionary,Restaurants
+106,CB,Financials,Property & Casualty Insurance
+107,CHD,Consumer Staples,Household Products
+108,CI,Health Care,Health Care Services
+109,CINF,Financials,Property & Casualty Insurance
+110,CTAS,Industrials,Diversified Support Services
+111,CSCO,Information Technology,Communications Equipment
+112,C,Financials,Diversified Banks
+113,CFG,Financials,Regional Banks
+114,CLX,Consumer Staples,Household Products
+115,CME,Financials,Financial Exchanges & Data
+116,CMS,Utilities,Multi-Utilities
+117,KO,Consumer Staples,Soft Drinks & Non-alcoholic Beverages
+118,CTSH,Information Technology,IT Consulting & Other Services
+119,CL,Consumer Staples,Household Products
+120,CMCSA,Communication Services,Cable & Satellite
+121,CMA,Financials,Diversified Banks
+122,CAG,Consumer Staples,Packaged Foods & Meats
+123,COP,Energy,Oil & Gas Exploration & Production
+124,ED,Utilities,Multi-Utilities
+125,STZ,Consumer Staples,Distillers & Vintners
+126,CEG,Utilities,Electric Utilities
+127,COO,Health Care,Health Care Supplies
+128,CPRT,Industrials,Diversified Support Services
+129,GLW,Information Technology,Electronic Components
+130,CPAY,Financials,Transaction & Payment Processing Services
+131,CTVA,Materials,Fertilizers & Agricultural Chemicals
+132,CSGP,Real Estate,Real Estate Services
+133,COST,Consumer Staples,Consumer Staples Merchandise Retail
+134,CTRA,Energy,Oil & Gas Exploration & Production
+135,CCI,Real Estate,Telecom Tower REITs
+136,CSX,Industrials,Rail Transportation
+137,CMI,Industrials,Construction Machinery & Heavy Transportation Equipment
+138,CVS,Health Care,Health Care Services
+139,DHR,Health Care,Life Sciences Tools & Services
+140,DRI,Consumer Discretionary,Restaurants
+141,DVA,Health Care,Health Care Services
+142,DAY,Industrials,Human Resource & Employment Services
+143,DECK,Consumer Discretionary,Footwear
+144,DE,Industrials,Agricultural & Farm Machinery
+145,DAL,Industrials,Passenger Airlines
+146,DVN,Energy,Oil & Gas Exploration & Production
+147,DXCM,Health Care,Health Care Equipment
+148,FANG,Energy,Oil & Gas Exploration & Production
+149,DLR,Real Estate,Data Center REITs
+150,DFS,Financials,Consumer Finance
+151,DG,Consumer Staples,Consumer Staples Merchandise Retail
+152,DLTR,Consumer Staples,Consumer Staples Merchandise Retail
+153,D,Utilities,Multi-Utilities
+154,DPZ,Consumer Discretionary,Restaurants
+155,DOV,Industrials,Industrial Machinery & Supplies & Components
+156,DOW,Materials,Commodity Chemicals
+157,DHI,Consumer Discretionary,Homebuilding
+158,DTE,Utilities,Multi-Utilities
+159,DUK,Utilities,Electric Utilities
+160,DD,Materials,Specialty Chemicals
+161,EMN,Materials,Specialty Chemicals
+162,ETN,Industrials,Electrical Components & Equipment
+163,EBAY,Consumer Discretionary,Broadline Retail
+164,ECL,Materials,Specialty Chemicals
+165,EIX,Utilities,Electric Utilities
+166,EW,Health Care,Health Care Equipment
+167,EA,Communication Services,Interactive Home Entertainment
+168,ELV,Health Care,Managed Health Care
+169,LLY,Health Care,Pharmaceuticals
+170,EMR,Industrials,Electrical Components & Equipment
+171,ENPH,Information Technology,Semiconductor Materials & Equipment
+172,ETR,Utilities,Electric Utilities
+173,EOG,Energy,Oil & Gas Exploration & Production
+174,EPAM,Information Technology,IT Consulting & Other Services
+175,EQT,Energy,Oil & Gas Exploration & Production
+176,EFX,Industrials,Research & Consulting Services
+177,EQIX,Real Estate,Data Center REITs
+178,EQR,Real Estate,Multi-Family Residential REITs
+179,ESS,Real Estate,Multi-Family Residential REITs
+180,EL,Consumer Staples,Personal Care Products
+181,ETSY,Consumer Discretionary,Broadline Retail
+182,EG,Financials,Reinsurance
+183,EVRG,Utilities,Electric Utilities
+184,ES,Utilities,Electric Utilities
+185,EXC,Utilities,Electric Utilities
+186,EXPE,Consumer Discretionary,"Hotels, Resorts & Cruise Lines"
+187,EXPD,Industrials,Air Freight & Logistics
+188,EXR,Real Estate,Self-Storage REITs
+189,XOM,Energy,Integrated Oil & Gas
+190,FFIV,Information Technology,Communications Equipment
+191,FDS,Financials,Financial Exchanges & Data
+192,FICO,Information Technology,Application Software
+193,FAST,Industrials,Trading Companies & Distributors
+194,FRT,Real Estate,Retail REITs
+195,FDX,Industrials,Air Freight & Logistics
+196,FIS,Financials,Transaction & Payment Processing Services
+197,FITB,Financials,Diversified Banks
+198,FSLR,Information Technology,Semiconductors
+199,FE,Utilities,Electric Utilities
+200,FI,Financials,Transaction & Payment Processing Services
+201,FMC,Materials,Fertilizers & Agricultural Chemicals
+202,F,Consumer Discretionary,Automobile Manufacturers
+203,FTNT,Information Technology,Systems Software
+204,FTV,Industrials,Industrial Machinery & Supplies & Components
+205,FOXA,Communication Services,Broadcasting
+206,FOX,Communication Services,Broadcasting
+207,BEN,Financials,Asset Management & Custody Banks
+208,FCX,Materials,Copper
+209,GRMN,Consumer Discretionary,Consumer Electronics
+210,IT,Information Technology,IT Consulting & Other Services
+211,GE,Industrials,Aerospace & Defense
+212,GEHC,Health Care,Health Care Equipment
+213,GEV,Industrials,Heavy Electrical Equipment
+214,GEN,Information Technology,Systems Software
+215,GNRC,Industrials,Electrical Components & Equipment
+216,GD,Industrials,Aerospace & Defense
+217,GIS,Consumer Staples,Packaged Foods & Meats
+218,GM,Consumer Discretionary,Automobile Manufacturers
+219,GPC,Consumer Discretionary,Distributors
+220,GILD,Health Care,Biotechnology
+221,GPN,Financials,Transaction & Payment Processing Services
+222,GL,Financials,Life & Health Insurance
+223,GS,Financials,Investment Banking & Brokerage
+224,HAL,Energy,Oil & Gas Equipment & Services
+225,HIG,Financials,Property & Casualty Insurance
+226,HAS,Consumer Discretionary,Leisure Products
+227,HCA,Health Care,Health Care Facilities
+228,DOC,Real Estate,Health Care REITs
+229,HSIC,Health Care,Health Care Distributors
+230,HSY,Consumer Staples,Packaged Foods & Meats
+231,HES,Energy,Integrated Oil & Gas
+232,HPE,Information Technology,"Technology Hardware, Storage & Peripherals"
+233,HLT,Consumer Discretionary,"Hotels, Resorts & Cruise Lines"
+234,HOLX,Health Care,Health Care Equipment
+235,HD,Consumer Discretionary,Home Improvement Retail
+236,HON,Industrials,Industrial Conglomerates
+237,HRL,Consumer Staples,Packaged Foods & Meats
+238,HST,Real Estate,Hotel & Resort REITs
+239,HWM,Industrials,Aerospace & Defense
+240,HPQ,Information Technology,"Technology Hardware, Storage & Peripherals"
+241,HUBB,Industrials,Industrial Machinery & Supplies & Components
+242,HUM,Health Care,Managed Health Care
+243,HBAN,Financials,Regional Banks
+244,HII,Industrials,Aerospace & Defense
+245,IBM,Information Technology,IT Consulting & Other Services
+246,IEX,Industrials,Industrial Machinery & Supplies & Components
+247,IDXX,Health Care,Health Care Equipment
+248,ITW,Industrials,Industrial Machinery & Supplies & Components
+249,ILMN,Health Care,Life Sciences Tools & Services
+250,INCY,Health Care,Biotechnology
+251,IR,Industrials,Industrial Machinery & Supplies & Components
+252,PODD,Health Care,Health Care Equipment
+253,INTC,Information Technology,Semiconductors
+254,ICE,Financials,Financial Exchanges & Data
+255,IFF,Materials,Specialty Chemicals
+256,IP,Materials,Paper & Plastic Packaging Products & Materials
+257,IPG,Communication Services,Advertising
+258,INTU,Information Technology,Application Software
+259,ISRG,Health Care,Health Care Equipment
+260,IVZ,Financials,Asset Management & Custody Banks
+261,INVH,Real Estate,Single-Family Residential REITs
+262,IQV,Health Care,Life Sciences Tools & Services
+263,IRM,Real Estate,Other Specialized REITs
+264,JBHT,Industrials,Cargo Ground Transportation
+265,JBL,Information Technology,Electronic Manufacturing Services
+266,JKHY,Financials,Transaction & Payment Processing Services
+267,J,Industrials,Construction & Engineering
+268,JNJ,Health Care,Pharmaceuticals
+269,JCI,Industrials,Building Products
+270,JPM,Financials,Diversified Banks
+271,JNPR,Information Technology,Communications Equipment
+272,K,Consumer Staples,Packaged Foods & Meats
+273,KVUE,Consumer Staples,Personal Care Products
+274,KDP,Consumer Staples,Soft Drinks & Non-alcoholic Beverages
+275,KEY,Financials,Regional Banks
+276,KEYS,Information Technology,Electronic Equipment & Instruments
+277,KMB,Consumer Staples,Household Products
+278,KIM,Real Estate,Retail REITs
+279,KMI,Energy,Oil & Gas Storage & Transportation
+280,KLAC,Information Technology,Semiconductor Materials & Equipment
+281,KHC,Consumer Staples,Packaged Foods & Meats
+282,KR,Consumer Staples,Food Retail
+283,LHX,Industrials,Aerospace & Defense
+284,LH,Health Care,Health Care Services
+285,LRCX,Information Technology,Semiconductor Materials & Equipment
+286,LW,Consumer Staples,Packaged Foods & Meats
+287,LVS,Consumer Discretionary,Casinos & Gaming
+288,LDOS,Industrials,Diversified Support Services
+289,LEN,Consumer Discretionary,Homebuilding
+290,LIN,Materials,Industrial Gases
+291,LYV,Communication Services,Movies & Entertainment
+292,LKQ,Consumer Discretionary,Distributors
+293,LMT,Industrials,Aerospace & Defense
+294,L,Financials,Multi-line Insurance
+295,LOW,Consumer Discretionary,Home Improvement Retail
+296,LULU,Consumer Discretionary,"Apparel, Accessories & Luxury Goods"
+297,LYB,Materials,Specialty Chemicals
+298,MTB,Financials,Regional Banks
+299,MRO,Energy,Oil & Gas Exploration & Production
+300,MPC,Energy,Oil & Gas Refining & Marketing
+301,MKTX,Financials,Financial Exchanges & Data
+302,MAR,Consumer Discretionary,"Hotels, Resorts & Cruise Lines"
+303,MMC,Financials,Insurance Brokers
+304,MLM,Materials,Construction Materials
+305,MAS,Industrials,Building Products
+306,MA,Financials,Transaction & Payment Processing Services
+307,MTCH,Communication Services,Interactive Media & Services
+308,MKC,Consumer Staples,Packaged Foods & Meats
+309,MCD,Consumer Discretionary,Restaurants
+310,MCK,Health Care,Health Care Distributors
+311,MDT,Health Care,Health Care Equipment
+312,MRK,Health Care,Pharmaceuticals
+313,META,Communication Services,Interactive Media & Services
+314,MET,Financials,Life & Health Insurance
+315,MTD,Health Care,Life Sciences Tools & Services
+316,MGM,Consumer Discretionary,Casinos & Gaming
+317,MCHP,Information Technology,Semiconductors
+318,MU,Information Technology,Semiconductors
+319,MSFT,Information Technology,Systems Software
+320,MAA,Real Estate,Multi-Family Residential REITs
+321,MRNA,Health Care,Biotechnology
+322,MHK,Consumer Discretionary,Home Furnishings
+323,MOH,Health Care,Managed Health Care
+324,TAP,Consumer Staples,Brewers
+325,MDLZ,Consumer Staples,Packaged Foods & Meats
+326,MPWR,Information Technology,Semiconductors
+327,MNST,Consumer Staples,Soft Drinks & Non-alcoholic Beverages
+328,MCO,Financials,Financial Exchanges & Data
+329,MS,Financials,Investment Banking & Brokerage
+330,MOS,Materials,Fertilizers & Agricultural Chemicals
+331,MSI,Information Technology,Communications Equipment
+332,MSCI,Financials,Financial Exchanges & Data
+333,NDAQ,Financials,Financial Exchanges & Data
+334,NTAP,Information Technology,"Technology Hardware, Storage & Peripherals"
+335,NFLX,Communication Services,Movies & Entertainment
+336,NEM,Materials,Gold
+337,NWSA,Communication Services,Publishing
+338,NWS,Communication Services,Publishing
+339,NEE,Utilities,Multi-Utilities
+340,NKE,Consumer Discretionary,"Apparel, Accessories & Luxury Goods"
+341,NI,Utilities,Multi-Utilities
+342,NDSN,Industrials,Industrial Machinery & Supplies & Components
+343,NSC,Industrials,Rail Transportation
+344,NTRS,Financials,Asset Management & Custody Banks
+345,NOC,Industrials,Aerospace & Defense
+346,NCLH,Consumer Discretionary,"Hotels, Resorts & Cruise Lines"
+347,NRG,Utilities,Independent Power Producers & Energy Traders
+348,NUE,Materials,Steel
+349,NVDA,Information Technology,Semiconductors
+350,NVR,Consumer Discretionary,Homebuilding
+351,NXPI,Information Technology,Semiconductors
+352,ORLY,Consumer Discretionary,Automotive Retail
+353,OXY,Energy,Oil & Gas Exploration & Production
+354,ODFL,Industrials,Cargo Ground Transportation
+355,OMC,Communication Services,Advertising
+356,ON,Information Technology,Semiconductors
+357,OKE,Energy,Oil & Gas Storage & Transportation
+358,ORCL,Information Technology,Application Software
+359,OTIS,Industrials,Industrial Machinery & Supplies & Components
+360,PCAR,Industrials,Construction Machinery & Heavy Transportation Equipment
+361,PKG,Materials,Paper & Plastic Packaging Products & Materials
+362,PANW,Information Technology,Systems Software
+363,PARA,Communication Services,Movies & Entertainment
+364,PH,Industrials,Industrial Machinery & Supplies & Components
+365,PAYX,Industrials,Human Resource & Employment Services
+366,PAYC,Industrials,Human Resource & Employment Services
+367,PYPL,Financials,Transaction & Payment Processing Services
+368,PNR,Industrials,Industrial Machinery & Supplies & Components
+369,PEP,Consumer Staples,Soft Drinks & Non-alcoholic Beverages
+370,PFE,Health Care,Pharmaceuticals
+371,PCG,Utilities,Multi-Utilities
+372,PM,Consumer Staples,Tobacco
+373,PSX,Energy,Oil & Gas Refining & Marketing
+374,PNW,Utilities,Multi-Utilities
+375,PNC,Financials,Regional Banks
+376,POOL,Consumer Discretionary,Distributors
+377,PPG,Materials,Specialty Chemicals
+378,PPL,Utilities,Electric Utilities
+379,PFG,Financials,Life & Health Insurance
+380,PG,Consumer Staples,Personal Care Products
+381,PGR,Financials,Property & Casualty Insurance
+382,PLD,Real Estate,Industrial REITs
+383,PRU,Financials,Life & Health Insurance
+384,PEG,Utilities,Electric Utilities
+385,PTC,Information Technology,Application Software
+386,PSA,Real Estate,Self-Storage REITs
+387,PHM,Consumer Discretionary,Homebuilding
+388,QRVO,Information Technology,Semiconductors
+389,PWR,Industrials,Construction & Engineering
+390,QCOM,Information Technology,Semiconductors
+391,DGX,Health Care,Health Care Services
+392,RL,Consumer Discretionary,"Apparel, Accessories & Luxury Goods"
+393,RJF,Financials,Investment Banking & Brokerage
+394,RTX,Industrials,Aerospace & Defense
+395,O,Real Estate,Retail REITs
+396,REG,Real Estate,Retail REITs
+397,REGN,Health Care,Biotechnology
+398,RF,Financials,Regional Banks
+399,RSG,Industrials,Environmental & Facilities Services
+400,RMD,Health Care,Health Care Equipment
+401,RVTY,Health Care,Health Care Equipment
+402,RHI,Industrials,Human Resource & Employment Services
+403,ROK,Industrials,Electrical Components & Equipment
+404,ROL,Industrials,Environmental & Facilities Services
+405,ROP,Information Technology,Electronic Equipment & Instruments
+406,ROST,Consumer Discretionary,Apparel Retail
+407,RCL,Consumer Discretionary,"Hotels, Resorts & Cruise Lines"
+408,SPGI,Financials,Financial Exchanges & Data
+409,CRM,Information Technology,Application Software
+410,SBAC,Real Estate,Telecom Tower REITs
+411,SLB,Energy,Oil & Gas Equipment & Services
+412,STX,Information Technology,"Technology Hardware, Storage & Peripherals"
+413,SRE,Utilities,Multi-Utilities
+414,NOW,Information Technology,Systems Software
+415,SHW,Materials,Specialty Chemicals
+416,SPG,Real Estate,Retail REITs
+417,SWKS,Information Technology,Semiconductors
+418,SJM,Consumer Staples,Packaged Foods & Meats
+419,SNA,Industrials,Industrial Machinery & Supplies & Components
+420,SOLV,Health Care,Health Care Technology
+421,SO,Utilities,Electric Utilities
+422,LUV,Industrials,Passenger Airlines
+423,SWK,Industrials,Industrial Machinery & Supplies & Components
+424,SBUX,Consumer Discretionary,Restaurants
+425,STT,Financials,Asset Management & Custody Banks
+426,STLD,Materials,Steel
+427,STE,Health Care,Health Care Equipment
+428,SYK,Health Care,Health Care Equipment
+429,SMCI,Information Technology,"Technology Hardware, Storage & Peripherals"
+430,SYF,Financials,Consumer Finance
+431,SNPS,Information Technology,Application Software
+432,SYY,Consumer Staples,Food Distributors
+433,TMUS,Communication Services,Wireless Telecommunication Services
+434,TROW,Financials,Asset Management & Custody Banks
+435,TTWO,Communication Services,Interactive Home Entertainment
+436,TPR,Consumer Discretionary,"Apparel, Accessories & Luxury Goods"
+437,TRGP,Energy,Oil & Gas Storage & Transportation
+438,TGT,Consumer Staples,Consumer Staples Merchandise Retail
+439,TEL,Information Technology,Electronic Manufacturing Services
+440,TDY,Information Technology,Electronic Equipment & Instruments
+441,TFX,Health Care,Health Care Equipment
+442,TER,Information Technology,Semiconductor Materials & Equipment
+443,TSLA,Consumer Discretionary,Automobile Manufacturers
+444,TXN,Information Technology,Semiconductors
+445,TXT,Industrials,Aerospace & Defense
+446,TMO,Health Care,Life Sciences Tools & Services
+447,TJX,Consumer Discretionary,Apparel Retail
+448,TSCO,Consumer Discretionary,Other Specialty Retail
+449,TT,Industrials,Building Products
+450,TDG,Industrials,Aerospace & Defense
+451,TRV,Financials,Property & Casualty Insurance
+452,TRMB,Information Technology,Electronic Equipment & Instruments
+453,TFC,Financials,Regional Banks
+454,TYL,Information Technology,Application Software
+455,TSN,Consumer Staples,Packaged Foods & Meats
+456,USB,Financials,Diversified Banks
+457,UBER,Industrials,Passenger Ground Transportation
+458,UDR,Real Estate,Multi-Family Residential REITs
+459,ULTA,Consumer Discretionary,Other Specialty Retail
+460,UNP,Industrials,Rail Transportation
+461,UAL,Industrials,Passenger Airlines
+462,UPS,Industrials,Air Freight & Logistics
+463,URI,Industrials,Trading Companies & Distributors
+464,UNH,Health Care,Managed Health Care
+465,UHS,Health Care,Health Care Facilities
+466,VLO,Energy,Oil & Gas Refining & Marketing
+467,VTR,Real Estate,Health Care REITs
+468,VLTO,Industrials,Environmental & Facilities Services
+469,VRSN,Information Technology,Internet Services & Infrastructure
+470,VRSK,Industrials,Research & Consulting Services
+471,VZ,Communication Services,Integrated Telecommunication Services
+472,VRTX,Health Care,Biotechnology
+473,VTRS,Health Care,Pharmaceuticals
+474,VICI,Real Estate,Hotel & Resort REITs
+475,V,Financials,Transaction & Payment Processing Services
+476,VST,Utilities,Electric Utilities
+477,VMC,Materials,Construction Materials
+478,WRB,Financials,Property & Casualty Insurance
+479,GWW,Industrials,Industrial Machinery & Supplies & Components
+480,WAB,Industrials,Construction Machinery & Heavy Transportation Equipment
+481,WBA,Consumer Staples,Drug Retail
+482,WMT,Consumer Staples,Consumer Staples Merchandise Retail
+483,DIS,Communication Services,Movies & Entertainment
+484,WBD,Communication Services,Broadcasting
+485,WM,Industrials,Environmental & Facilities Services
+486,WAT,Health Care,Life Sciences Tools & Services
+487,WEC,Utilities,Electric Utilities
+488,WFC,Financials,Diversified Banks
+489,WELL,Real Estate,Health Care REITs
+490,WST,Health Care,Health Care Supplies
+491,WDC,Information Technology,"Technology Hardware, Storage & Peripherals"
+492,WRK,Materials,Paper & Plastic Packaging Products & Materials
+493,WY,Real Estate,Timber REITs
+494,WMB,Energy,Oil & Gas Storage & Transportation
+495,WTW,Financials,Insurance Brokers
+496,WYNN,Consumer Discretionary,Casinos & Gaming
+497,XEL,Utilities,Multi-Utilities
+498,XYL,Industrials,Industrial Machinery & Supplies & Components
+499,YUM,Consumer Discretionary,Restaurants
+500,ZBRA,Information Technology,Electronic Equipment & Instruments
+501,ZBH,Health Care,Health Care Equipment
+502,ZTS,Health Care,Pharmaceuticals
