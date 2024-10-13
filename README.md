@@ -206,13 +206,14 @@ In our project - the in-sample period was `2012-2019` and the out-sample period 
 	2. Enter 'input.xlsx' and define the parameters values.
 	   The Default should be
 
-	    parameter | start | end | step 
-	           -- | -- | -- | --
-	    z_score_window | 14 | 14 | 1
-	    z_score_treshold | 0 | 0 | 1
-	    atr_window | 14 | 14 | 1
-	    gap&go_sl_tp_ratio | 1.0 | 1.0 | 1.0
-	    close_gap_sl_tp_ratio | 1.0 | 1.0 | 1.0
+    | Parameter              | Start | End | Step |
+    |------------------------|-------|-----|------|
+    | z_score_window          | 14    | 14  | 1    |
+    | z_score_threshold       | 0     | 0   | 1    |
+    | atr_window              | 14    | 14  | 1    |
+    | gap&go_sl_tp_ratio      | 1.0   | 1.0 | 1.0  |
+    | close_gap_sl_tp_ratio   | 1.0   | 1.0 | 1.0  |
+
 
 	3. Enter 'main.py' and make sure that 'IN_SAMPLE' variable in line 15 is `True`.
 	4. Run:
