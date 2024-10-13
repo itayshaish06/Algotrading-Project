@@ -130,14 +130,6 @@ Close Gap Strategy is in place if the model signals to enter 'Long' position.
 
 ## Installation
 
-### 0. **Get Trading Data**
-#### WRDS
-- Get access to WRDS crsp data.
-- Search for jupiter notebook server in wrds.
-- Upload files from directory 0 and run it.
-- Download the zip containing all the S&P stocks.
-
-
 ### 1. **python and libraries installation**
 - Download the latest version of Python for Windows from python official website.
 - run the installer - !Make sure to check the option "Add Python to PATH" during the installation process!.
@@ -154,12 +146,15 @@ git clone https://github.com/yourusername/AlgoTrading.git
 cd AlgoTrading
 ```
 
-### 3. **Download Data from wrds crsp data**
-* Get access to wrds crsp.
-* open a jupiter note book.
-* use the `.ipynb` file to download the data
-* zip it
-* download the zip into `1- data\wrds 1day Data\original`.
+### 3. **Get Trading Data**
+#### WRDS
+- Get access to WRDS crsp data.
+- Search for jupiter notebook server in wrds.
+- Upload files from directory 0 and run it.
+- Download the zip containing all the S&P stocks to `1- data\wrds 1day Data\original`.
+#### yfinance
+- Enter `1- data\yfinance 1day Data`.
+- Run the `.ipynb` file.
 
 ## Usage
 
