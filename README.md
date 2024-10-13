@@ -131,7 +131,7 @@ Close Gap Strategy is in place if the model signals to enter 'Long' position.
 ## Installation
 
 ### 0. **Get Trading Data**
-####WRDS
+#### WRDS
 - Get access to WRDS crsp data.
 - Search for jupiter notebook server in wrds.
 - Upload files from directory 0 and run it.
