@@ -58,14 +58,12 @@ Close Gap Strategy is in place if the model signals to enter 'Long' position.
 
 ## Project Structure
 
-### 0. Get Trading Data From WRDS crsp
-- **Objective:** use WRDS server to get stock trading data and adjust the data into more readble format (e.g columns name and dataframes merging).
+### 0. Get Trading Data 
+- **Sources:** WRDS crsp and yfinance (main source will be WRDS).
 -  **Tasks:**
 	- Read stocks symbols from file.
-        - Access wrds data via its api and request each stocks symbol data.
-        - Save each symbol to `pickle` and `csv` formats.
-        - After getting all the stocks data -> zip it into 1 file.
-        - Now you can download the stocks data and proceed to Data Fix.
+        - Access wrds server , request and download all s&p stocks trading data.
+        - Access yfinance api , request and download all s&p stocks trading data.
 
 
 ### 1. Data Fix and Sanity Check
@@ -132,10 +130,12 @@ Close Gap Strategy is in place if the model signals to enter 'Long' position.
 
 ## Installation
 
-### 0. **Get access to wrds crsp database**
+### 0. **Get Trading Data**
+- ####WRDS
+- Get access to WRDS crsp data.
 - Search for jupiter notebook server in wrds.
 - Upload files from directory 0 and run it.
-- Download the zip containing all the S&P stocks. 
+- Download the zip containing all the S&P stocks.
 
 
 ### 1. **python and libraries installation**
