@@ -64,6 +64,7 @@ Close Gap Strategy is in place if the model signals to enter 'Long' position.
 -  **Tasks:**
     - Access wrds server , request and download all s&p stocks trading data.
     - Access yfinance api , request and download all s&p stocks trading data.
+      
 [Back to Table of Contents](#table-of-contents)
 
 
@@ -76,6 +77,7 @@ Close Gap Strategy is in place if the model signals to enter 'Long' position.
 	- Correct data types and formats.
 	- Remove or rectify outliers and anomalies.
 	- Ensure chronological order and integrity of the dataset.
+   
  [Back to Table of Contents](#table-of-contents)
 
 ### 2. Statistic Check
