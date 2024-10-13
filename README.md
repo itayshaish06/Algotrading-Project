@@ -6,7 +6,6 @@ A Python-based algorithmic trading project leveraging **pandas** for data manipu
 
 - [Overview](#overview)
 - [Project Structure](#project-structure)
-  
         - [0. Get Trading Data](#0-get-trading-data)
 	- [1. Data Fix and Sanity Check](#1-data-fix-and-sanity-check)
 	- [2. Statistic Check](#2-statistic-check)
