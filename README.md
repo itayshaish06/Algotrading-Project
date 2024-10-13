@@ -246,3 +246,7 @@ In our project - the in-sample period was `2012-2019` and the out-sample period 
     python main.py
 ```
 3. check results.
+
+Table of Contents
+
+- [Table of Contents](#table-of-contents)
