@@ -15,7 +15,7 @@ A Python-based algorithmic trading project leveraging **pandas** for data manipu
 	- [4. Backtest and Optimization](#4-backtest-and-optimization)
 - [Installation](#installation)
 - [Usage](#usage)
-        - [1. Data Fix](#1-run-part-1---data-fix)
+    - [1. Data Fix](#1-run-part-1---data-fix)
 	- [2. Statistic Check](#2-run-part-2---Statistic-Check)
 	- [3. CatBoost Preparation and Training](#3-run-part-3---catboost)
 	- [4. Backtest and Optimization](#4-run-part-4---backtest-and-optimization)
