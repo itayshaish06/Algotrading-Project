@@ -64,6 +64,7 @@ Close Gap Strategy is in place if the model signals to enter 'Long' position.
 -  **Tasks:**
     - Access wrds server , request and download all s&p stocks trading data.
     - Access yfinance api , request and download all s&p stocks trading data.
+[Back to Table of Contents](#table-of-contents)
 
 
 ### 1. Data Fix and Sanity Check
@@ -75,6 +76,7 @@ Close Gap Strategy is in place if the model signals to enter 'Long' position.
 	- Correct data types and formats.
 	- Remove or rectify outliers and anomalies.
 	- Ensure chronological order and integrity of the dataset.
+ [Back to Table of Contents](#table-of-contents)
 
 ### 2. Statistic Check
 
@@ -93,6 +95,8 @@ Close Gap Strategy is in place if the model signals to enter 'Long' position.
 | 15-20%   |      |                |                    |                        |                          |                              |         |                |                |                  |                  |                  |                  |           |               |                                    |                              |
 | 20-30%   |      |                |                    |                        |                          |                              |         |                |                |                  |                  |                  |                  |           |               |                                    |                              |
 | 30-100%  |      |                |                    |                        |                          |                              |         |                |                |                  |                  |                  |                  |           |               |                                    |                              |
+
+[Back to Table of Contents](#table-of-contents)
 
 ### 3. CatBoost Preparation and Training
 
@@ -113,6 +117,8 @@ Close Gap Strategy is in place if the model signals to enter 'Long' position.
 	- Train the model using the prepared dataset.
 	- Perform hyperparameter tuning to optimize performance.
 	- Validate the model's accuracy and reliability on unseen data(=validation).
+   
+[Back to Table of Contents](#table-of-contents)
 
 ### 4. Backtest and Optimization
 
@@ -126,6 +132,8 @@ Close Gap Strategy is in place if the model signals to enter 'Long' position.
 | Optimization ID | Total Return | Annualized Return | Annualized Sharpe | Sortino Ratio | Max Drawdown | Calmar Ratio |
 |-----------------|--------------|-------------------|-------------------|----------------|--------------|---------------|
 |                 |              |                   |                   |                |              |               |
+
+[Back to Table of Contents](#table-of-contents)
 
 
 ## Installation
@@ -155,6 +163,8 @@ cd AlgoTrading
 #### yfinance
 - Enter `1- data\yfinance 1day Data`.
 - Run the `.ipynb` file.
+
+[Back to Table of Contents](#table-of-contents)
 
 ## Usage
 
@@ -246,7 +256,5 @@ In our project - the in-sample period was `2012-2019` and the out-sample period 
     python main.py
 ```
 3. check results.
-
-Table of Contents
-
-- [Table of Contents](#table-of-contents)
+   
+[Back to Table of Contents](#table-of-contents)
