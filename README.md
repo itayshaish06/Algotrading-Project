@@ -61,8 +61,8 @@ Close Gap Strategy is in place if the model signals to enter 'Long' position.
 ### 0. Get Trading Data 
 - **Sources:** WRDS crsp and yfinance (main source will be WRDS).
 -  **Tasks:**
-  - Access wrds server , request and download all s&p stocks trading data.
-  - Access yfinance api , request and download all s&p stocks trading data.
+    - Access wrds server , request and download all s&p stocks trading data.
+    - Access yfinance api , request and download all s&p stocks trading data.
 
 
 ### 1. Data Fix and Sanity Check
