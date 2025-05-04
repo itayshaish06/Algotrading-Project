@@ -1,6 +1,6 @@
 # AlgoTrading Project - Python
 
-A Python-based algorithmic trading project leveraging **pandas** for data and **CatBoost** for machine learning model training. This project is designed to develop, test, and optimize trading strategies based on historical data.
+A Python-based algorithmic trading project leveraging **pandas** for data and **CatBoost** for machine learning model training. This project is designed to develop, test, and optimize Gap-trading strategy based on historical data.
 
 ## Table of Contents
 
